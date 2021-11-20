@@ -1,0 +1,63 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "firstName": "Kanishk",
+      "lastName": "Upadhyay",
+      "email": "kanishk.upadhyay@codinova.com",
+      "phone": 9007481794,
+      "password": "12345678",
+      "role": "employee",
+      "leave": 3
+    },
+    {
+      "id": 2,
+      "firstName": "Shivam",
+      "lastName": "Upadhyay",
+      "email": "shivam.upadhyay@codinova.com",
+      "phone": 7278814104,
+      "password": "87654321",
+      "role": "employee",
+      "leave": 14
+    },
+    {
+      "id": 3,
+      "firstName": "Varun",
+      "lastName": "Mittal",
+      "email": "varun.mittal@codinova.com",
+      "phone": 9398473829,
+      "password": "12344321",
+      "role": "employee",
+      "leave": 10
+    },
+    {
+      "id": 4,
+      "firstName": "Swati",
+      "lastName": "Padalia",
+      "email": "swati.padalia@codinova.com",
+      "phone": 8374920846,
+      "password": "swati1234",
+      "role": "hr"
+    },
+    {
+      "firstName": "Shubham",
+      "lastName": "Singh",
+      "email": "shubham.singh@codinova.com",
+      "phone": "9484938543",
+      "password": "shubham123",
+      "role": "employee",
+      "leave": 2,
+      "id": 0.9639712478467326
+    },
+    {
+      "firstName": "dewjfjweej",
+      "lastName": "dnewdwedew",
+      "email": "dwedwe@gmail.com",
+      "phone": "4485848844",
+      "password": "dnenffrfr",
+      "role": "employee",
+      "leave": 2,
+      "id": 0.6806245754385092
+    }
+  ]
+}
