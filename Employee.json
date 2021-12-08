@@ -8,7 +8,8 @@
       "phone": 9007481794,
       "password": "12345678",
       "role": "employee",
-      "leave": 3
+      "leave": 3,
+      "quantity":0
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "phone": 7278814104,
       "password": "87654321",
       "role": "employee",
-      "leave": 14
+      "leave": 14,
+      "quantity":0
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "phone": 9398473829,
       "password": "12344321",
       "role": "employee",
-      "leave": 10
+      "leave": 10,
+      "quantity":0
     },
     {
       "id": 4,
@@ -47,7 +50,8 @@
       "password": "shubham123",
       "role": "employee",
       "leave": 2,
-      "id": 0.9639712478467326
+      "id": 5,
+      "quantity":0
     },
     {
       "firstName": "dewjfjweej",
@@ -57,7 +61,8 @@
       "password": "dnenffrfr",
       "role": "employee",
       "leave": 2,
-      "id": 0.6806245754385092
+      "id": 6,
+      "quantity":0
     }
   ]
 }
