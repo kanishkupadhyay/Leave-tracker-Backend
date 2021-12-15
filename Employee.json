@@ -54,15 +54,15 @@
       "quantity":0
     },
     {
-      "firstName": "dewjfjweej",
-      "lastName": "dnewdwedew",
-      "email": "dwedwe@gmail.com",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@gmail.com",
       "phone": "4485848844",
-      "password": "dnenffrfr",
+      "password": "12345678",
       "role": "employee",
       "leave": 2,
       "id": 6,
       "quantity":0
     }
   ]
-}
+}  
